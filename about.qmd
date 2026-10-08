@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About & Contact"
 ---
 
 About this site

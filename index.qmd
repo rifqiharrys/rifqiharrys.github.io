@@ -1,7 +1,7 @@
 ---
-title: "Rifqi Muhammad Harrys"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+Greetings visitors! Welcome to my personal website. This site will serve as a platform to showcase my work, share my experiences, and provide information about myself. I am a Mapping Surveyor at Badan Informasi Geospasial (Geospatial Information Agency) in Indonesia, and I have a passion for geospatial data and mapping technologies.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

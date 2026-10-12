@@ -1,3 +1,16 @@
 ---
 title: "Work Experience"
 ---
+
+# [2018 - Present] Mapping Surveyor - Badan Informasi Geospasial (Geospatial Information Agency)
+
+Badan Informasi Geospasial (BIG) is a non-ministerial government agency in Indonesia that is responsible for providing geospatial information to support national development. The agency is tasked with producing accurate and up-to-date geospatial data and georeference, including Continously Operating Reference Stations (CORS) data, tide stations data, topographic maps, and other geospatial products. BIG also provides geospatial services to various government agencies, private companies, and the public.
+
+Generally, I am responsible for the technical aspects of topographic mapping in the scope of marine and coastal mapping. My responsibilites vary each year depending on what each project demands. They usually include the following but not limited to:
+
+* Project management
+* Bathymetric survey and data processing
+* GNSS data acquisition and processing
+* Levelling measurement
+* Shallow water depth generation using Satellite Derived Bathymetry
+* Coastline data updating

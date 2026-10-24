@@ -2,11 +2,13 @@
 title: "Work Experience"
 ---
 
-# [2018 - Present] Mapping Surveyor - Badan Informasi Geospasial (Geospatial Information Agency)
+## Expert Mapping Surveyor
+
+**Badan Informasi Geospasial (Geospatial Information Agency)** | 2018 - Present
 
 Badan Informasi Geospasial (BIG) is a non-ministerial government agency in Indonesia that is responsible for providing geospatial information to support national development. The agency is tasked with producing accurate and up-to-date geospatial data and georeference, including Continously Operating Reference Stations (CORS) data, tide stations data, topographic maps, and other geospatial products. BIG also provides geospatial services to various government agencies, private companies, and the public.
 
-Generally, I am responsible for the technical aspects of topographic mapping in the scope of marine and coastal mapping. My responsibilites vary each year depending on what each project demands. They usually include the following but not limited to:
+I work in Directorate of Marine and Coastal Topographic Mapping, which is responsible for producing and updating base topographic maps and geospatial data for marine and coastal areas in Indonesia such as bathymetric mapping and coastline mapping. As a mapping surveyor, I am responsible for the technical aspects of topographic mapping in the scope of marine and coastal mapping. My responsibilites vary each year depending on what each project demands. They usually include the following but not limited to:
 
 * Project management
 * Bathymetric survey and data processing
@@ -14,3 +16,19 @@ Generally, I am responsible for the technical aspects of topographic mapping in 
 * Levelling measurement
 * Shallow water depth generation using Satellite Derived Bathymetry
 * Coastline data updating
+
+## Mapping Officer
+
+**Badan Pengelola Pendapatan Daerah Kabupaten Bogor (Local Revenue Management Agency of Bogor Regency)** | 2017
+
+Badan Pengelola Pendapatan Daerah (Bappenda) Kabupaten Bogor is a local government agency in Bogor Regency, Indonesia, that is responsible for managing and collecting regional taxes and levies. The agency is tasked with ensuring that the local government has sufficient revenue to fund public services and development projects.
+
+My role in the Land and Building Tax Division as a mapping officer was registering new tax objects or updating them on the Land and Building Tax (PBB) database. I was responsible for conducting field surveys to collect data on land and buildings, including their location, size, and condition. I also used Geographic Information System (GIS) software to create maps and analyze spatial data related to tax objects.
+
+## GIS Officer
+
+**Badan Geologi (Geological Agency)** | August 2016 - November 2016
+
+Badan Geologi is a non-ministerial government agency in Indonesia that is responsible for conducting geological research and providing geological information to support national development. The agency is tasked with producing accurate and up-to-date geological data, including geological maps, mineral resources data, and geohazard information.
+
+I worked in Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) or Center for Volcanology and Geological Hazard Mitigation, which is responsible for monitoring and mitigating geological hazards such as volcanic eruptions, earthquakes, and landslides. My role as a GIS officer was to support the agency's efforts in monitoring and mitigating geological hazards by digitalising the existing landslide vulnerability maps using Geographic Information System (GIS) software.

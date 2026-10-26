@@ -1,0 +1,15 @@
+---
+title: "Hi there, I'm Rifqi 👋"
+---
+
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rifqiharrys)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifqiharrys/)
+[![google-scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ls5q9R4AAAAJ&hl=en)
+[![orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-8254-2492)
+[![research-gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rifqi-Harrys-2)
+
+Greetings visitors! Welcome to my personal website. This site will serve as a platform to showcase my work, share my experiences, and provide information about myself. I hope that you find the content here informative and engaging. Please feel free to explore the different sections of the site, and don't hesitate to reach out if you have any questions or would like to connect.
+
+I am a Mapping Surveyor at Badan Informasi Geospasial (Geospatial Information Agency) in Indonesia, working primarily in marine and coastal mappings. 
+
+I graduated from the Geodesy and Geomatics Engineering program at Institut Teknologi Bandung (ITB) in 2016. Since then, I have been working in the field of geospatial information, focusing on marine and coastal mapping, bathymetric surveys, and geospatial data analysis.

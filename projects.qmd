@@ -1,0 +1,96 @@
+---
+title: "Projects"
+---
+
+## Marine and Coastal Topographic Mapping of Tegal
+
+**Work Project** | September 2026 - November 2026 | Tegal, Central Java, Indonesia
+
+**Role:** Coordinator of Single-Beam Echo Sounder Survey Team
+
+This project involves conducting coastline mapping, bathymetric survey, tidal observation, and current measurement in Tegal coastal area and the surrounding ocean area until up to 7 km offshore. The purpose of this project is to produce updated coastline data, bathymetric data, and oceanographic data for the Tegal coastal area, which will be used for various purposes such as coastal management, navigation safety, and disaster mitigation.
+
+My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) survey was conducted in accordance with the project requirements and specifications. I was responsible for coordinating the survey team, ensuring that the survey equipment was properly calibrated and maintained, overseeing the data collection process and its processing, and managing the supporting supplies and logistics for the survey.
+
+## South Kalimantan Bathymetric Surveying and Mapping
+
+**Work Project** | 2025 | South Kalimantan, Indonesia
+
+**Role:** Bathymetric Surveyor
+
+## Piksel Indonesia Coastlines
+
+**Work Project** | 2025 - Present
+
+**Role:** Contributor
+
+**Links:** [GitHub Repository](https://github.com/piksel-ina/indonesia-coastlines)
+
+## Coastline Mapping using Satellite-Derived Bathymetry (SDB)
+
+**Work Project** | 2024 | Kalimantan and Sulawesi, Indonesia
+
+**Role:** Co-Project Manager and Mapping Surveyor
+
+## Togean National Park Bathymetric Surveying and Mapping
+
+**Work Project** | 2024 | Central Sulawesi, Indonesia
+
+**Role:** Bathymetric Surveyor
+
+## Coastline Mapping using Satellite-Derived Bathymetry (SDB)
+
+**Work Project** | 2023 | Sulawesi, Indonesia
+
+**Role:** Project Manager and Mapping Surveyor
+
+## Coastline Mapping using SfM Photogrammetry
+
+**Work Project** | 2023 | Flores, East Nusa Tenggara, Indonesia
+
+**Role:** Control Points Surveyor
+
+## Bunaken National Park Bathymetric Surveying and Mapping
+
+**Work Project** | 2022 | North Sulawesi, Indonesia
+
+**Role:** Project Manager and Mapping Surveyor
+
+## Kepulauan Seribu Bathymetric Surveying and Mapping
+
+**Work Project** | 2021 | Jakarta, Indonesia
+
+**Role:** Bathymetric Surveyor
+
+This project was conducted in the Kepulauan Seribu National Park, which is a marine protected area located in the northern part of Jakarta Bay. The purpose of this project was to produce updated bathymetric data for the Kepulauan Seribu National Park to support Balai Taman Nasional Kepulauan Seribu (BTNKP) or the National Park Management Agency of Kepulauan Seribu in managing the marine protected area.
+
+The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey, Multibeam Echo Sounder (MBES) survey, and Satellite-Derived Bathymetry (SDB) method (which was piloted during this project). This project was my first time operating the SBES and MBES survey equipment in the field. At the time, I was also responsible for the SDB data processing as a pilot project to test the SDB method for bathymetric mapping in shallow water areas.
+
+## Satellite-Derived Bathymetry (SDB) GUI Software
+
+**Personal Project** | 2020 - Present
+
+**Role:** Developer
+
+**Links:** [GitHub Repository](https://github.com/rifqiharrys/sdb_gui) | 
+[DOI](https://doi.org/10.5281/zenodo.8220196)
+
+SDB GUI is a software that I developed to facilitate the process of generating clear shallow water bathymetric data using the Satellite-Derived Bathymetry (SDB) method. The software is designed to be user-friendly and efficient, allowing users to easily input satellite imagery and depth sample data. The bathymetric data is generated using machine learning algorithms, such as Random Forest, K-Nearest Neighbors, and Multiple Linear Regression. This software has supported several projects in my department for coastline mapping and bathymetric mapping in shallow water areas.
+
+## Tidal Analysis (T Tide and U Tide) GUI Software
+
+**Personal Project** | 2020 - 2022
+
+**Role:** Developer
+
+**Links:** [GitHub Repository](https://github.com/rifqiharrys/tide_pyqt5)
+
+This software is my first GUI project that I developed to facilitate the process of tidal analysis using T Tide and U Tide library that originated from MATLAB. The software is designed to be user-friendly and efficient, allowing users to easily input tidal data and perform tidal analysis. Although this software is no longer maintained, the development of this software has given me a starting point to learn about GUI development using PyQt5 in Python.
+
+## Sunda Strait Coastline Mapping using Bathymetric Lidar
+
+**Work Project** | 2020 | Lampung and Banten, Indonesia
+
+**Role:** Bathymetric Lidar data processor
+
+This project was the first use of Airborne Lidar Bathymetry (ALB) for coastline mapping conducted in Indonesia. The project was conducted in the Sunda Strait coastal area, which is a tsunami-prone zone. The use of ALB was intended to provide detailed elevation data of the intertidal zone, which is hard to acquire using conventional survey methods like GNSS or acoustic-based surveys. The ALB system used in this project was using Leica Chiroptera 4X sensor, which use red laser for land and green laser for water.

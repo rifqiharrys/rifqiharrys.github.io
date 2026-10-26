@@ -18,6 +18,14 @@ My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) s
 
 **Role:** Bathymetric Surveyor
 
+## Piksel Indonesia Coastlines
+
+**Work Project** | 2025 - Present
+
+**Role:** Contributor
+
+**Links:** [GitHub Repository](https://github.com/piksel-ina/indonesia-coastlines)
+
 ## Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
 **Work Project** | 2024 | Kalimantan and Sulawesi, Indonesia
@@ -54,6 +62,10 @@ My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) s
 
 **Role:** Bathymetric Surveyor
 
+This project was conducted in the Kepulauan Seribu National Park, which is a marine protected area located in the northern part of Jakarta Bay. The purpose of this project was to produce updated bathymetric data for the Kepulauan Seribu National Park to support Balai Taman Nasional Kepulauan Seribu (BTNKP) or the National Park Management Agency of Kepulauan Seribu in managing the marine protected area.
+
+The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey, Multibeam Echo Sounder (MBES) survey, and Satellite-Derived Bathymetry (SDB) method (which was piloted during this project). This project was my first time operating the SBES and MBES survey equipment in the field. At the time, I was also responsible for the SDB data processing as a pilot project to test the SDB method for bathymetric mapping in shallow water areas.
+
 ## Satellite-Derived Bathymetry (SDB) GUI Software
 
 **Personal Project** | 2020 - Present
@@ -72,6 +84,8 @@ SDB GUI is a software that I developed to facilitate the process of generating c
 **Role:** Developer
 
 **Links:** [GitHub Repository](https://github.com/rifqiharrys/tide_pyqt5)
+
+This software is my first GUI project that I developed to facilitate the process of tidal analysis using T Tide and U Tide library that originated from MATLAB. The software is designed to be user-friendly and efficient, allowing users to easily input tidal data and perform tidal analysis. Although this software is no longer maintained, the development of this software has given me a starting point to learn about GUI development using PyQt5 in Python.
 
 ## Sunda Strait Coastline Mapping using Bathymetric Lidar
 

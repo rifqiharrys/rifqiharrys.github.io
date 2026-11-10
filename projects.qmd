@@ -12,6 +12,10 @@ This project involves conducting coastline mapping, bathymetric survey, tidal ob
 
 My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) survey was conducted in accordance with the project requirements and specifications. I was responsible for coordinating the survey team, ensuring that the survey equipment was properly calibrated and maintained, overseeing the data collection process and its processing, and managing the supporting supplies and logistics for the survey.
 
+The picture below is me, while operating the Unmanned Surface Vehicle (USV) during the bathymetric survey in Tegal coastal area. The USV is equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver, which allows for accurate bathymetric data collection in shallow water areas that are difficult to access using conventional survey vessels. I was communicating with the USV operator who hold the remote control of the USV to ensure that the USV was operating safely.
+
+![Operating USV for Bathymetric Survey](images/tegal-usv-operation.jpg)
+
 ## South Kalimantan Bathymetric Surveying and Mapping
 
 **Work Project** | 2025 | South Kalimantan, Indonesia
@@ -26,11 +30,13 @@ My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) s
 
 **Links:** [GitHub Repository](https://github.com/piksel-ina/indonesia-coastlines)
 
-## Coastline Mapping using Satellite-Derived Bathymetry (SDB)
+## Kalimantan and Sulawesi Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
 **Work Project** | 2024 | Kalimantan and Sulawesi, Indonesia
 
 **Role:** Co-Project Manager and Mapping Surveyor
+
+The purpose of this project was to produce updated coastline data for selected coastal areas in Kalimantan and Sulawesi, Indonesia using bathymetric data generated from the Satellite-Derived Bathymetry (SDB) method. The required field data was shallow water depth data that was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The bathymetric data then generated using SDB GUI by inputting the collected shallow water depth data and the satellite imagery of the project area. The coastline then produced by extracting the 0 m depth contour from the generated bathymetric data.
 
 ## Togean National Park Bathymetric Surveying and Mapping
 
@@ -38,13 +44,15 @@ My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) s
 
 **Role:** Bathymetric Surveyor
 
-## Coastline Mapping using Satellite-Derived Bathymetry (SDB)
+## Sulawesi Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
 **Work Project** | 2023 | Sulawesi, Indonesia
 
 **Role:** Project Manager and Mapping Surveyor
 
-## Coastline Mapping using SfM Photogrammetry
+The purpose of this project was to produce updated coastline data for selected coastal areas in Sulawesi, Indonesia using bathymetric data generated from the Satellite-Derived Bathymetry (SDB) method. The required field data was shallow water depth data that was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The bathymetric data then generated using SDB GUI by inputting the collected shallow water depth data and the satellite imagery of the project area. The coastline then produced by extracting the 0 m depth contour from the generated bathymetric data.
+
+## East Nusa Tenggara Coastline Mapping using SfM Photogrammetry
 
 **Work Project** | 2023 | Flores, East Nusa Tenggara, Indonesia
 
@@ -55,6 +63,10 @@ My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) s
 **Work Project** | 2022 | North Sulawesi, Indonesia
 
 **Role:** Project Manager and Mapping Surveyor
+
+This project was conducted in Bunaken National Park, which is a marine protected area located in the northern part of Sulawesi Island. The purpose of this project was to produce updated bathymetric data for Bunaken National Park to support Balai Taman Nasional Bunaken (BTNB) or the National Park Management Agency of Bunaken in managing the marine protected area. The project area covers the waters of Bunaken National Park and the Northern part of Sulawesi Island from South Minahasa Regency to North Minahasa Regency. 
+
+The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey, Multibeam Echo Sounder (MBES) survey, and Satellite-Derived Bathymetry (SDB) method. Beside project management, I was also responsible for the SDB data processing and the integration of all bathymetric data from SBES, MBES, and SDB into a single bathymetric dataset. The final bathymetric dataset was then used to produce updated bathymetric maps for Bunaken National Park.
 
 ## Kepulauan Seribu Bathymetric Surveying and Mapping
 

@@ -22,6 +22,8 @@ The picture below is me, while operating the Unmanned Surface Vehicle (USV) duri
 
 **Role:** Bathymetric Surveyor
 
+This project was conducted in Pulau Laut Regency, South Kalimantan, Indonesia. The purpose of this project was to produce updated bathymetric data for the project area to support the local government in managing the coastal and marine resources. The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey and Multibeam Echo Sounder (MBES) survey. My role in this project was to operate the SBES and MBES survey equipment in the field, collect bathymetric data, and process the collected data to produce updated bathymetric maps for the project area.
+
 ## Piksel Indonesia Coastlines
 
 **Work Project** | 2025 - Present
@@ -29,6 +31,8 @@ The picture below is me, while operating the Unmanned Surface Vehicle (USV) duri
 **Role:** Contributor
 
 **Links:** [GitHub Repository](https://github.com/piksel-ina/indonesia-coastlines)
+
+Indonesia-coastlines is an application for generating coastline of Indonesia using Piksel Indonesia's cloud computing platform. It is adapted from Digital Earth Australia (DEA) Coastlines, which is an application for generating coastline of Australia using DEA's cloud computing platform. My role in this project is to adapt the DEA Coastlines application to work well within Piksel Indonesia's cloud computing platform and to ensure that the parameters used in the application are suitable for generating coastline of Indonesia.
 
 ## Kalimantan and Sulawesi Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
@@ -44,6 +48,8 @@ The purpose of this project was to produce updated coastline data for selected c
 
 **Role:** Bathymetric Surveyor
 
+This project was conducted in Togean National Park, which is a marine protected area located in the Gulf of Tomini, Central Sulawesi. The purpose of this project was to produce updated bathymetric data for Togean National Park to support Balai Taman Nasional Togean (BTNT) or the National Park Management Agency of Togean in managing the marine protected area. The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey, Multibeam Echo Sounder (MBES) survey, and Satellite-Derived Bathymetry (SDB) method.
+
 ## Sulawesi Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
 **Work Project** | 2023 | Sulawesi, Indonesia
@@ -57,6 +63,8 @@ The purpose of this project was to produce updated coastline data for selected c
 **Work Project** | 2023 | Flores, East Nusa Tenggara, Indonesia
 
 **Role:** Control Points Surveyor
+
+This project was conducted along the northern coast of Flores Island, East Nusa Tenggara, Indonesia. The purpose of this project was to produce updated coastline data for the project area using Structure from Motion (SfM) photogrammetry method. Processing aerial photos using SfM photogrammetry method requires control points. There are 3 types of control points that we surveyed in this project, which are base points (which are used for post processing kinematic GNSS data from the drone), ground control points or GCPs (which are used for georeferencing the SfM photogrammetry model), and independent check points or ICPs (which are used for accuracy assessment of the SfM photogrammetry model). My role in this project was to survey the base points, GCPs, and ICPs using GNSS survey method.
 
 ## Bunaken National Park Bathymetric Surveying and Mapping
 

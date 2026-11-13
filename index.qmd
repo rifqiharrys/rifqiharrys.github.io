@@ -10,9 +10,9 @@ My work brings together bathymetric surveying, coastline mapping, GNSS, and sate
 
 ## Selected work
 
-- [Satellite-Derived Bathymetry GUI](https://github.com/rifqiharrys/sdb_gui) — an open-source tool I developed to generate shallow-water bathymetry from satellite imagery and depth samples.
-- [Indonesia Coastlines](https://github.com/piksel-ina/indonesia-coastlines) — a coastline-generation project I contribute to for Piksel Indonesia.
-- [Research and publications](publications.qmd) — including research on satellite-derived bathymetry and tsunami hazard assessment.
+- [Satellite-Derived Bathymetry GUI](https://github.com/rifqiharrys/sdb_gui), an open-source tool I developed to generate shallow-water bathymetry from satellite imagery and depth samples.
+- [Indonesia Coastlines](https://github.com/piksel-ina/indonesia-coastlines), a coastline-generation project I contribute to for Piksel Indonesia.
+- [Research and publications](publications.qmd), including research on satellite-derived bathymetry and tsunami hazard assessment.
 
 ## Connect
 

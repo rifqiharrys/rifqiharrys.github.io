@@ -12,9 +12,15 @@ This project involves conducting coastline mapping, bathymetric survey, tidal ob
 
 My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) survey was conducted in accordance with the project requirements and specifications. I was responsible for coordinating the survey team, ensuring that the survey equipment was properly calibrated and maintained, overseeing the data collection process and its processing, and managing the supporting supplies and logistics for the survey.
 
-The picture below is me, while operating the Unmanned Surface Vehicle (USV) during the bathymetric survey in Tegal coastal area. The USV is equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver, which allows for accurate bathymetric data collection in shallow water areas that are difficult to access using conventional survey vessels. I was communicating with the USV operator who hold the remote control of the USV to ensure that the USV was operating safely.
+These photos show two parts of the Tegal bathymetric survey: operating the Unmanned Surface Vehicle (USV) from shore and carrying out a bar check for the Single-Beam Echo Sounder (SBES).
 
-![Operating USV for Bathymetric Survey](images/tegal-usv-operation.jpg)
+::: {.text-center}
+
+![Operating the USV during the bathymetric survey.](images/tegal-usv-operation.jpg){fig-alt="Surveyor operating the USV from shore."}
+
+![Bar-check calibration for the SBES.](images/tegal-barcheck.jpg){fig-alt="Surveyor performing a bar check beside the survey boat."}
+
+:::
 
 ## South Kalimantan Bathymetric Surveying and Mapping
 

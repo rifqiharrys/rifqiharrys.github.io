@@ -7,7 +7,7 @@ I'm **Rifqi Muhammad Harrys**, a geospatial mapping professional from Indonesia.
 I earned a bachelor's degree in Geodesy and Geomatics Engineering from Institut Teknologi Bandung (ITB). Since joining BIG in 2018, I have worked on mapping projects that combine field surveys, geospatial data processing, and remote sensing.
 
 ::: {.text-center}
-![A photo from a training in China (2026)](images/rifqi-in-china.jpg){fig-align="center" width="55%"}
+![A photo from a training in China (2026)](images/rifqi-in-china.jpg){width="55%"}
 :::
 
 ## What I work on

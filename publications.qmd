@@ -11,7 +11,7 @@ Sumatra-Java megathrust has been a host of six earthquake-triggered tsunamis in 
 2024 |
 **Journal Name:** Arabian Journal of Geosciences
 
-## [Comparison Of K-Nearest Neighbor, Multiple Linear Regression, And Random Forest Classifiers for Depth Extraction in The Shallow Water of Kepulauan Seribu, Indonesia (Perbandingan Klasifikasi KNearest Neighbor, Multiple Linear Regression, dan Random Forest untuk Ekstraksi Data Kedalaman di Perairan Dangkal Kepulauan Seribu, Indonesia)](https://jurnal.big.go.id/gm/article/view/154)
+## [Comparison Of K-Nearest Neighbor, Multiple Linear Regression, And Random Forest Classifiers for Depth Extraction in The Shallow Water of Kepulauan Seribu, Indonesia (Perbandingan Klasifikasi K-Nearest Neighbor, Multiple Linear Regression, dan Random Forest untuk Ekstraksi Data Kedalaman di Perairan Dangkal Kepulauan Seribu, Indonesia)](https://jurnal.big.go.id/gm/article/view/154)
 
 **Abstract:**
 

@@ -1,1 +1,21 @@
 /* css styles */
+
+#fig-tegal figcaption {
+  text-align: center;
+}
+
+#fig-tegal img {
+  width: 100%;
+  height: 280px;
+  object-fit: contain;
+}
+
+#fig-sdb-depth-samples figcaption {
+  text-align: center;
+}
+
+#fig-sdb-depth-samples img {
+  width: 100%;
+  height: 300px;
+  object-fit: contain;
+}

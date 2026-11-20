@@ -4,7 +4,7 @@ title: "Hi, I'm Rifqi 👋"
 
 I'm **Rifqi Muhammad Harrys**, a geospatial mapping professional focused on marine and coastal areas. I work as an Expert Mapping Surveyor at Indonesia's [Geospatial Information Agency (BIG)](https://www.big.go.id/), where I help produce and update geospatial data for the coast and seafloor.
 
-My work brings together bathymetric surveying, coastline mapping, GNSS, and satellite-derived bathymetry. I also develop geospatial tools and take part in research that makes mapping data more useful for coastal management and other applications.
+My work brings together coastline and bathymetric mapping using several techniques such as acoustic-based surveys, photogrammetry, lidar, satellite-derived bathymetry, GNSS surveying, and GIS analysis. I also develop geospatial tools and take part in research that makes mapping data more useful for coastal management and other applications.
 
 **Explore:** [Projects](projects.qmd) · [Publications](publications.qmd) · [Work experience](work.qmd) · [About me](about.qmd)
 

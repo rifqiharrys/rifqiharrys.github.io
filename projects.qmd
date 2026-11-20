@@ -14,11 +14,13 @@ My role in this project was to ensure that the Single-Beam Echo Sounder (SBES) s
 
 These photos show two parts of the Tegal bathymetric survey: operating the Unmanned Surface Vehicle (USV) from shore and carrying out a bar check for the Single-Beam Echo Sounder (SBES).
 
-::: {.text-center}
+::: {#fig-tegal .text-center layout-ncol=2}
 
-![Operating the USV during the bathymetric survey.](images/tegal-usv-operation.jpg){fig-alt="Surveyor operating the USV from shore."}
+![](images/tegal-usv-operation.jpg)
 
-![Bar-check calibration for the SBES.](images/tegal-barcheck.jpg){fig-alt="Surveyor performing a bar check beside the survey boat."}
+![](images/tegal-barcheck.jpg){width="55%"}
+
+Operating the USV for shallow water and bar-check calibration for the SBES.
 
 :::
 
@@ -28,7 +30,7 @@ These photos show two parts of the Tegal bathymetric survey: operating the Unman
 
 **Role:** Bathymetric Surveyor
 
-This project was conducted in Pulau Laut Regency, South Kalimantan, Indonesia. The purpose of this project was to produce updated bathymetric data for the project area to support the local government in managing the coastal and marine resources. The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey and Multibeam Echo Sounder (MBES) survey. My role in this project was to operate the SBES and MBES survey equipment in the field, collect bathymetric data, and process the collected data to produce updated bathymetric maps for the project area.
+This project was conducted in Pulau Laut Regency, South Kalimantan, Indonesia. The purpose of this project was to produce updated bathymetric data for the project area to support the local government in managing the coastal and marine resources. The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey and Multibeam Echo Sounder (MBES) survey. My role in this project was to operate the SBES and MBES survey equipment in the field and collect bathymetric data to produce updated bathymetric maps for the project area.
 
 ## Piksel Indonesia Coastlines
 
@@ -48,21 +50,35 @@ Indonesia-coastlines is an application for generating coastline of Indonesia usi
 
 The purpose of this project was to produce updated coastline data for selected coastal areas in Kalimantan and Sulawesi, Indonesia using bathymetric data generated from the Satellite-Derived Bathymetry (SDB) method. The required field data was shallow water depth data that was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The bathymetric data then generated using SDB GUI by inputting the collected shallow water depth data and the satellite imagery of the project area. The coastline then produced by extracting the 0 m depth contour from the generated bathymetric data.
 
+My role in this project was to manage the field survey team and lead the depth sample data collection. The depth sample data was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The collected depth data then processed using SDB GUI to generate bathymetric data, which was then used to produce updated coastline data for the project area.
+
 ## Togean National Park Bathymetric Surveying and Mapping
 
 **Work Project** | 2024 | Central Sulawesi, Indonesia
 
 **Role:** Bathymetric Surveyor
 
-This project was conducted in Togean National Park, which is a marine protected area located in the Gulf of Tomini, Central Sulawesi. The purpose of this project was to produce updated bathymetric data for Togean National Park to support Balai Taman Nasional Togean (BTNT) or the National Park Management Agency of Togean in managing the marine protected area. The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey, Multibeam Echo Sounder (MBES) survey, and Satellite-Derived Bathymetry (SDB) method.
+This project was conducted in Togean National Park, which is a marine protected area located in the Gulf of Tomini, Central Sulawesi. The purpose of this project was to produce updated bathymetric data for Togean National Park to support Balai Taman Nasional Togean (BTNT) or the National Park Management Agency of Togean in managing the marine protected area. The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey, Multibeam Echo Sounder (MBES) survey, and Satellite-Derived Bathymetry (SDB) method. My role in this project was to operate the SBES and MBES survey equipment in the field and collect bathymetric data to produce updated bathymetric maps for the project area.
 
-## Sulawesi Coastline Mapping using Satellite-Derived Bathymetry (SDB)
+## Sulawesi and East Nusa Tenggara Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
 **Work Project** | 2023 | Sulawesi, Indonesia
 
 **Role:** Project Manager and Mapping Surveyor
 
-The purpose of this project was to produce updated coastline data for selected coastal areas in Sulawesi, Indonesia using bathymetric data generated from the Satellite-Derived Bathymetry (SDB) method. The required field data was shallow water depth data that was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The bathymetric data then generated using SDB GUI by inputting the collected shallow water depth data and the satellite imagery of the project area. The coastline then produced by extracting the 0 m depth contour from the generated bathymetric data.
+The purpose of this project was to produce updated coastline data for selected coastal areas in Sulawesi and East Nusa Tenggara, Indonesia using bathymetric data generated from the Satellite-Derived Bathymetry (SDB) method. The required field data was shallow water depth data that was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The bathymetric data then generated using SDB GUI by inputting the collected shallow water depth data and the satellite imagery of the project area. The coastline then produced by extracting the 0 m depth contour from the generated bathymetric data.
+
+My role in this project was to manage the field survey team and lead the depth sample data collection. The depth sample data was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The collected depth data then processed using SDB GUI to generate bathymetric data, which was then used to produce updated coastline data for the project area.
+
+::: {#fig-sdb-depth-samples .text-center layout-ncol=2}
+
+![](images/gto-banggo-baa-depth-sample.jpg){fig-alt="Depth sample data collected at Banggo."}
+
+![](images/gto-olinggobe-depth-sample.jpg){fig-alt="Depth sample data collected at Olinggobe."}
+
+Depth sample data for SDB generated depth data.
+
+:::
 
 ## East Nusa Tenggara Coastline Mapping using SfM Photogrammetry
 
@@ -71,6 +87,14 @@ The purpose of this project was to produce updated coastline data for selected c
 **Role:** Control Points Surveyor
 
 This project was conducted along the northern coast of Flores Island, East Nusa Tenggara, Indonesia. The purpose of this project was to produce updated coastline data for the project area using Structure from Motion (SfM) photogrammetry method. Processing aerial photos using SfM photogrammetry method requires control points. There are 3 types of control points that we surveyed in this project, which are base points (which are used for post processing kinematic GNSS data from the drone), ground control points or GCPs (which are used for georeferencing the SfM photogrammetry model), and independent check points or ICPs (which are used for accuracy assessment of the SfM photogrammetry model). My role in this project was to survey the base points, GCPs, and ICPs using GNSS survey method.
+
+::: {#fig-flores-icp .text-center}
+
+![](images/flores-premark.jpg)
+
+One of premarked Independent Check Points (ICPs) measured using GNSS
+
+:::
 
 ## Bunaken National Park Bathymetric Surveying and Mapping
 
@@ -81,6 +105,14 @@ This project was conducted along the northern coast of Flores Island, East Nusa 
 This project was conducted in Bunaken National Park, which is a marine protected area located in the northern part of Sulawesi Island. The purpose of this project was to produce updated bathymetric data for Bunaken National Park to support Balai Taman Nasional Bunaken (BTNB) or the National Park Management Agency of Bunaken in managing the marine protected area. The project area covers the waters of Bunaken National Park and the Northern part of Sulawesi Island from South Minahasa Regency to North Minahasa Regency. 
 
 The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) survey, Multibeam Echo Sounder (MBES) survey, and Satellite-Derived Bathymetry (SDB) method. Beside project management, I was also responsible for the SDB data processing and the integration of all bathymetric data from SBES, MBES, and SDB into a single bathymetric dataset. The final bathymetric dataset was then used to produce updated bathymetric maps for Bunaken National Park.
+
+::: {#fig-bunaken-mbes .text-center}
+
+![](images/bunaken-mbes-survey.jpg)
+
+Seabed at about 200 m depth using MBES system.
+
+:::
 
 ## Kepulauan Seribu Bathymetric Surveying and Mapping
 
@@ -120,3 +152,5 @@ This software is my first GUI project that I developed to facilitate the process
 **Role:** Bathymetric Lidar data processor
 
 This project was the first use of Airborne Lidar Bathymetry (ALB) for coastline mapping conducted in Indonesia. The project was conducted in the Sunda Strait coastal area, which is a tsunami-prone zone. The use of ALB was intended to provide detailed elevation data of the intertidal zone, which is hard to acquire using conventional survey methods like GNSS or acoustic-based surveys. The ALB system used in this project was using Leica Chiroptera 4X sensor, which use red laser for land and green laser for water.
+
+My role in this project was to pre-process the ALB data by analysing the waveform data for water column and seabed classification and calculating the surveyed area coverage.

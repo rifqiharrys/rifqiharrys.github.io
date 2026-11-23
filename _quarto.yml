@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Rifqi Muhammad Harrys"
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd

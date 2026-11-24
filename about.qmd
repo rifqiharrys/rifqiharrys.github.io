@@ -2,12 +2,16 @@
 title: "About"
 ---
 
-Hello, I'm **Rifqi Muhammad Harrys**, a geospatial mapping professional from Indonesia. I work as an Expert Mapping Surveyor at the [Geospatial Information Agency (BIG)](https://www.big.go.id/), in its marine and coastal topographic mapping directorate.
+Hello, I'm **Rifqi Muhammad Harrys**, a geospatial mapping professional from Indonesia. I currently work as an Expert Mapping Surveyor at the [Geospatial Information Agency (BIG)](https://www.big.go.id/), in its marine and coastal topographic mapping directorate.
 
 I earned a bachelor's degree in Geodesy and Geomatics Engineering from Institut Teknologi Bandung (ITB). Since joining BIG in 2018, I have worked on mapping projects that combine field surveys, geospatial data processing, and remote sensing.
 
-::: {.text-center}
-![A photo from a training in China (2026)](images/rifqi-in-china.jpg){width="55%"}
+::: {#fig-rifqi-in-china .text-center}
+
+![](images/rifqi-in-china.jpg){width="52%"}
+
+A photo from a Marine Economy training in China (2026)
+
 :::
 
 ## What I work on

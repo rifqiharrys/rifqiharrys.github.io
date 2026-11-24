@@ -6,8 +6,8 @@ website:
   favicon: favicon.png
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      # - href: index.qmd
+      #   text: Home
       - href: work.qmd
         text: Work Experience
       - href: projects.qmd

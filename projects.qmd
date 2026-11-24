@@ -52,6 +52,16 @@ The purpose of this project was to produce updated coastline data for selected c
 
 My role in this project was to manage the field survey team and lead the depth sample data collection. The depth sample data was collected using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) and a GNSS receiver. The collected depth data then processed using SDB GUI to generate bathymetric data, which was then used to produce updated coastline data for the project area.
 
+::: {#fig-sdb-depth-samples .text-center layout-ncol=2}
+
+![](images/usv-depth.jpg)
+
+![](images/usv-depth-2.jpeg)
+
+Shallow water depth sample acquisition using an Unmanned Surface Vehicle (USV) equipped with a Single-Beam Echo Sounder (SBES) system.
+
+:::
+
 ## Togean National Park Bathymetric Surveying and Mapping
 
 **Work Project** | 2024 | Central Sulawesi, Indonesia
@@ -92,7 +102,7 @@ This project was conducted along the northern coast of Flores Island, East Nusa 
 
 ![](images/flores-premark.jpg)
 
-One of premarked Independent Check Points (ICPs) measured using GNSS
+One of premarked Independent Check Points (ICPs) measured using GNSS.
 
 :::
 

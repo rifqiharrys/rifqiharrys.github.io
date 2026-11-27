@@ -1,0 +1,23 @@
+---
+title: "Education"
+---
+
+## Formal Education
+
+### Bachelor of Geodesy and Geomatics Engineering
+
+**Institut Teknologi Bandung (ITB)** · Indonesia |
+`2011 – 2016`
+
+**Thesis:**  Land Cover Change Monitoring Of ITB Jatinangor Campus Using UAV - Photogrammetry
+
+## Courses and Training
+
+### Seminar on Innovative Development of the Marine Economy for Developing Countries in the Context of Digitalization
+
+**[Provider or Institution]** · Qingdao, China | `2026` | 10 days
+
+[Optional: Briefly describe the subjects covered or skills gained.]
+
+<!-- Duplicate the course entry above for each additional course or training. -->
+

@@ -5,17 +5,40 @@ website:
   title: "Rifqi Muhammad Harrys"
   favicon: favicon.png
   navbar:
+    logo: favicon.png
     left:
-      # - href: index.qmd
-      #   text: Home
-      - href: work.qmd
-        text: Work Experience
-      - href: projects.qmd
-        text: Projects
-      - href: publications.qmd
-        text: Publications
-      - href: about.qmd
-        text: About
+      - href: index.qmd
+        text: Home
+      # - text: Portfolio
+      #   menu:
+      #     - text: Education
+      #       href: education.qmd
+      #     - text: Work Experience
+      #       href: work.qmd
+      #     - text: Projects
+      #       href: projects.qmd
+      #     - text: Publications
+      #       href: publications.qmd
+      - text: About
+        href: about.qmd
+    tools: 
+      - icon: github
+        href: https://github.com/rifqiharrys/rifqiharrys.github.io
+        text: "GitHub Page Repository"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/rifqiharrys
+        text: "LinkedIn Profile"
+  sidebar:
+    style: "floating"
+    contents:
+      - text: Education
+        href: education.qmd
+      - text: Work Experience
+        href: work.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Publications
+        href: publications.qmd
 
 format:
   html:

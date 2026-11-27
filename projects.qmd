@@ -4,7 +4,7 @@ title: "Projects"
 
 ## Marine and Coastal Topographic Mapping of Tegal
 
-**Work Project** | 2026 | Tegal, Central Java, Indonesia
+**Work Project** | `2026` | Tegal, Central Java, Indonesia
 
 **Role:** Coordinator of Single-Beam Echo Sounder Survey Team
 
@@ -26,7 +26,7 @@ Operating the USV for shallow water and bar-check calibration for the SBES.
 
 ## South Kalimantan Bathymetric Surveying and Mapping
 
-**Work Project** | 2025 | South Kalimantan, Indonesia
+**Work Project** | `2025` | South Kalimantan, Indonesia
 
 **Role:** Bathymetric Surveyor
 
@@ -34,7 +34,7 @@ This project was conducted in Pulau Laut Regency, South Kalimantan, Indonesia. T
 
 ## Piksel Indonesia Coastlines
 
-**Work Project** | 2025 - Present
+**Work Project** | `2025 - Present`
 
 **Role:** Contributor
 
@@ -44,7 +44,7 @@ Indonesia-coastlines is an application for generating coastline of Indonesia usi
 
 ## Kalimantan and Sulawesi Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
-**Work Project** | 2024 | Kalimantan and Sulawesi, Indonesia
+**Work Project** | `2024` | Kalimantan and Sulawesi, Indonesia
 
 **Role:** Co-Project Manager and Mapping Surveyor
 
@@ -64,7 +64,7 @@ Shallow water depth sample acquisition using an Unmanned Surface Vehicle (USV) e
 
 ## Togean National Park Bathymetric Surveying and Mapping
 
-**Work Project** | 2024 | Central Sulawesi, Indonesia
+**Work Project** | `2024` | Central Sulawesi, Indonesia
 
 **Role:** Bathymetric Surveyor
 
@@ -72,7 +72,7 @@ This project was conducted in Togean National Park, which is a marine protected 
 
 ## Sulawesi and East Nusa Tenggara Coastline Mapping using Satellite-Derived Bathymetry (SDB)
 
-**Work Project** | 2023 | Sulawesi, Indonesia
+**Work Project** | `2023` | Sulawesi, Indonesia
 
 **Role:** Project Manager and Mapping Surveyor
 
@@ -92,7 +92,7 @@ Depth sample data for SDB generated depth data.
 
 ## East Nusa Tenggara Coastline Mapping using SfM Photogrammetry
 
-**Work Project** | 2023 | Flores, East Nusa Tenggara, Indonesia
+**Work Project** | `2023` | Flores, East Nusa Tenggara, Indonesia
 
 **Role:** Control Points Surveyor
 
@@ -108,7 +108,7 @@ One of premarked Independent Check Points (ICPs) measured using GNSS.
 
 ## Bunaken National Park Bathymetric Surveying and Mapping
 
-**Work Project** | 2022 | North Sulawesi, Indonesia
+**Work Project** | `2022` | North Sulawesi, Indonesia
 
 **Role:** Project Manager and Mapping Surveyor
 
@@ -126,7 +126,7 @@ Seabed at about 200 m depth using MBES system.
 
 ## Kepulauan Seribu Bathymetric Surveying and Mapping
 
-**Work Project** | 2021 | Jakarta, Indonesia
+**Work Project** | `2021` | Jakarta, Indonesia
 
 **Role:** Bathymetric Surveyor
 
@@ -136,7 +136,7 @@ The bathymetric mapping was conducted using Single-Beam Echo Sounder (SBES) surv
 
 ## Satellite-Derived Bathymetry (SDB) GUI Software
 
-**Personal Project** | 2020 - Present
+**Personal Project** | `2020 - Present`
 
 **Role:** Developer
 
@@ -147,7 +147,7 @@ SDB GUI is a software that I developed to facilitate the process of generating c
 
 ## Tidal Analysis (T Tide and U Tide) GUI Software
 
-**Personal Project** | 2020 - 2022
+**Personal Project** | `2020 - 2022`
 
 **Role:** Developer
 
@@ -157,7 +157,7 @@ This software is my first GUI project that I developed to facilitate the process
 
 ## Sunda Strait Coastline Mapping using Bathymetric Lidar
 
-**Work Project** | 2020 | Lampung and Banten, Indonesia
+**Work Project** | `2020` | Lampung and Banten, Indonesia
 
 **Role:** Bathymetric Lidar data processor
 
